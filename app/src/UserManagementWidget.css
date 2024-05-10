@@ -1,0 +1,35 @@
+.widget-container {  
+  background: #fff;  
+  border: 1px solid #e1e1e1;  
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);  
+  border-radius: 4px;  
+  padding: 20px;  
+  margin: 20px;  
+  width: 300px;  
+}  
+  
+.widget-title {  
+  color: #333;  
+  font-size: 18px;  
+  margin-bottom: 10px;  
+}  
+  
+.widget-description {  
+  color: #666;  
+  font-size: 14px;  
+  margin-bottom: 20px;  
+}  
+  
+.add-user-button {  
+  background-color: #0078d4;  
+  color: white;  
+  border: none;  
+  padding: 10px 20px;  
+  font-size: 14px;  
+  border-radius: 4px;  
+  cursor: pointer;  
+}  
+  
+.add-user-button:hover {  
+  background-color: #005a9e;  
+}  

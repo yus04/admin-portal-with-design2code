@@ -1,9 +1,6 @@
-# react-app
-React のサンプルアプリケーションを動かすためのコードです。このリポジトリ内のコードは、以下のコマンドを実行して作成されたものです。
-
-```
-npx create-react-app app
-```
+# admin-portal-with-design2code
+GPT-4V を使った Design to Code により、管理ポータルを構築したコードです。
+yus04/react-app のコードをクローンしたものをベースに構築しています。
 
 ## 実行手順
 サンプルアプリケーションへのディレクトリへ移動

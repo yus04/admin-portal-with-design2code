@@ -1,0 +1,18 @@
+.widgets-container {  
+  /* ウィジェットをラッピングするコンテナのスタイル */  
+  display: flex;  
+  flex-wrap: wrap;  
+  gap: 20px; /* ウィジェット間の余白 */  
+}  
+  
+.widget {  
+  /* 共通のウィジェットスタイル */  
+  background: #fff;  
+  border: 1px solid #ddd;  
+  border-radius: 4px;  
+  padding: 20px;  
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);  
+  flex: 1;  
+  min-width: 250px;  
+  /* さらに必要なスタイルを追加 */  
+}  

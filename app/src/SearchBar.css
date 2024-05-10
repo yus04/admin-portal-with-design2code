@@ -1,0 +1,43 @@
+.search-bar {  
+  display: flex;  
+  align-items: center;  
+  background-color: #f1f1f1;  
+  padding: 10px 20px;  
+  border-radius: 5px;  
+}  
+
+.search-bar__portal-name {  
+  flex: 1;  
+  font-size: 20px;  
+  font-weight: bold;  
+}  
+
+.search-bar__input {  
+  flex: 2;  
+  padding: 8px;  
+  margin: 0 20px;  
+  border: 2px solid #ccc;  
+  border-radius: 4px;  
+}  
+
+.search-bar__icons {  
+  display: flex;  
+  gap: 10px;  
+}  
+
+.icon {  
+  font-size: 24px;  
+  cursor: pointer;  
+}  
+
+.icon-settings::before {  
+  content: '⚙';  
+}  
+
+.icon-user::before {  
+  content: '👤';  
+}  
+
+.icon-notification::before {  
+  content: '🔔';  
+} 

@@ -1,0 +1,25 @@
+.office-apps-widget {  
+  background-color: #fff;  
+  border: 1px solid #e1e4e8;  
+  border-radius: 8px;  
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);  
+  padding: 20px;  
+  margin: 10px;  
+  width: 300px;  
+}  
+
+.office-apps-header {  
+  margin-bottom: 15px;  
+}  
+
+.office-apps-header h1 {  
+  font-size: 18px;  
+  color: #333;  
+  margin: 0;  
+}  
+
+.office-apps-content p {  
+  font-size: 14px;  
+  color: #666;  
+  margin: 0;  
+}  

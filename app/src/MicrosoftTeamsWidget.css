@@ -1,0 +1,55 @@
+.microsoft-teams-widget {  
+  background-color: #f4f4f4;  
+  border-radius: 8px;  
+  padding: 20px;  
+  margin: 20px;  
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);  
+}  
+
+.widget-header h1 {  
+  color: #005a9e;  
+  font-size: 20px;  
+}  
+
+.widget-header p {  
+  color: #666;  
+  font-size: 16px;  
+  margin-top: 5px;  
+}  
+
+.content-list {  
+  list-style: none;  
+  padding: 0;  
+  margin-top: 20px;  
+}  
+
+.content-list li {  
+  background-color: #e1f3ff;  
+  padding: 10px;  
+  border-radius: 5px;  
+  margin-bottom: 10px;  
+  font-size: 14px;  
+}  
+
+.widget-footer {  
+  display: flex;  
+  justify-content: space-between;  
+  margin-top: 20px;  
+}  
+
+.manage-teams-btn, .more-info-btn {  
+  padding: 10px 20px;  
+  color: white;  
+  border: none;  
+  cursor: pointer;  
+  font-size: 14px;  
+  border-radius: 5px;  
+}  
+
+.manage-teams-btn {  
+  background-color: #0078d4;  
+}  
+
+.more-info-btn {  
+  background-color: #5c2d91;  
+}  
