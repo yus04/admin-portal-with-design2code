@@ -1,6 +1,7 @@
 # admin-portal-with-design2code
 GPT-4V を使った Design to Code により、管理ポータルを構築したコードです。
 yus04/react-app のコードをクローンしたものをベースに構築しています。
+こちらの管理ポータルでは、[こちら](https://github.com/yus04/sample-api)のサンプル API を使っています。
 
 ## 実行手順
 サンプルアプリケーションへのディレクトリへ移動
